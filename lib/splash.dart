@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:test_splash/home.dart';
 import 'package:test_splash/main.dart';
 
 class Splash extends StatefulWidget {
